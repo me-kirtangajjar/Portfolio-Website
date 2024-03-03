@@ -15,6 +15,10 @@ export default function Home() {
           </Link>
 
           <Button variant="secondary">Github</Button>
+          <Button variant="secondary">Github</Button>
+          <Button variant="secondary">Github</Button>
+          <Button variant="secondary">Github</Button>
+          <Button variant="secondary">Github</Button>
         </p>
       </WavyBackground>
     </main>

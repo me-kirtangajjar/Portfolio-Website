@@ -13,6 +13,8 @@ export default function Home() {
           <Link href="https://www.linkedin.com/in/me-kirtangajjar" target="/">
             <Button variant="secondary">Linkedin</Button>
           </Link>
+
+          <Button variant="secondary">Github</Button>
         </p>
       </WavyBackground>
     </main>
